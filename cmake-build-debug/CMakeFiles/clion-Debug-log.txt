@@ -1,1 +1,4 @@
-CMakeLists.txt not found in /home/doctor/CLionProjects/roughlike Select CMakeLists.txt
+/home/doctor/Downloads/CLion-2024.3.4/clion-2024.3.4/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/doctor/Downloads/CLion-2024.3.4/clion-2024.3.4/bin/ninja/linux/x64/ninja -G Ninja -S /home/doctor/CLionProjects/roughlike -B /home/doctor/CLionProjects/roughlike/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/doctor/CLionProjects/roughlike/cmake-build-debug
