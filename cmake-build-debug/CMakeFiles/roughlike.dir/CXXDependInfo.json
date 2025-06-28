@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/doctor/CLionProjects/roughlike/cmake-build-debug",
+	"dir-cur-src" : "/home/doctor/CLionProjects/roughlike",
+	"dir-top-bld" : "/home/doctor/CLionProjects/roughlike/cmake-build-debug",
+	"dir-top-src" : "/home/doctor/CLionProjects/roughlike",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/doctor/CLionProjects/roughlike/cmake-build-debug/CMakeFiles/roughlike.dir"
+}
